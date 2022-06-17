@@ -219,6 +219,3 @@ while True:
         except:
             print("stuff hasnt gone to plan failiure at gamelogic for who won")
             twitter.update_status(status='whoops something went wrong at game logic @korben5461 \n line 239 to 260 Fix Me \n \U0001F9F1 \U0001F4C4	\U00002702 \n ' + str(rps) + str(result) + str(id) + str(dt))
-
-
-
